@@ -1,4 +1,6 @@
 # NgBlog
+
+* nota: El StorageBucket se puede eliminar de  app.module.ts, tanto el import como el provide dentro de providers
 ![image](blog.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
